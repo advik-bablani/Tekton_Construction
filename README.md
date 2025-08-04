@@ -70,7 +70,7 @@
   </div>
 
   <div class="images">
-    <img 
+    <img src="roof-diagram.png" alt="Roof structure showing shingles, underlayment, sheathing, and rafters" width="600">
     <img 
   </div>
 
