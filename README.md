@@ -1,4 +1,3 @@
-# advik-bablani.github.io
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -89,7 +88,7 @@
       <a href="https://www.epa.gov/greenbuilding" target="_blank">EPA’s Green Building Guide</a>.
     </p>
     <p>
-      <a href="mailto:tekton.services@example.com">Contact me</a> if you have any questions!
+      <a href="advikbablani@gmail.com">Contact me</a> if you have any questions!
     </p>
     <p>
       <a href="tekton_services_brochure.pdf" download>Download our full services brochure (PDF)</a>
