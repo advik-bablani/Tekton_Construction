@@ -65,8 +65,8 @@
   </div>
 
   <div class="images">
-    <img src="https://example.com/installation.jpg" alt="Installation service example">
-    <img src="https://example.com/repair.jpg" alt="Repair work example">
+    <img src="https://via.placeholder.com/400x250?text=Installation+Photo" alt="Installation service example">
+    <img src="https://via.placeholder.com/400x250?text=Repair+Photo" alt="Repair work example">
   </div>
 
   <div class="section">
@@ -86,7 +86,8 @@
 
   <div class="section">
     <p>
-      For more on sustainable construction practices, check out <a href="https://www.epa.gov/greenbuilding" target="_blank">EPA’s Green Building Guide</a>.
+      For more on sustainable construction practices, check out 
+      <a href="https://www.epa.gov/greenbuilding" target="_blank">EPA’s Green Building Guide</a>.
     </p>
     <p>
       <a href="mailto:tekton.services@example.com">Contact me</a> if you have any questions!
@@ -102,4 +103,5 @@
 
 </body>
 </html>
+
 
