@@ -100,9 +100,5 @@
   </div>
 </body>
 </html>
-cd your-repo-folder
-git rm README.md
-git commit -m "Delete README.md"
-git push origin main
 
 
