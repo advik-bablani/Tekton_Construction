@@ -71,7 +71,7 @@
 
   <div class="images">
     <img src="roof-diagram.png" alt="Roof structure showing shingles, underlayment, sheathing, and rafters" width="600">
-    <img 
+    <img src="Siding-Diagram.png" alt="Diagram showing siding layers" width="600">
   </div>
 
   <div class="section">
