@@ -36,6 +36,7 @@
     a {
       color: darkblue;
     }
+
   </style>
 </head>
 <body>
@@ -50,6 +51,9 @@
     <p>
       We offer services in a variety of <span style="color:darkred;">residential</span> and <span style="color:darkgreen;">commercial</span> settings. Our certified installers ensure <b>durability</b> and <i>long-lasting results</i> for every project.
     </p>
+    <p>
+      Our <span class="large-text">consultation service</span> is one of the most <span class="small-text">affordable and comprehensive</span> in the industry.
+    </p>
   </div>
 
   <div class="section">
@@ -59,6 +63,9 @@
     </p>
     <p>
       Our technicians respond fast, work efficiently, and leave your property looking even better than before. Ask us about our <span style="color:maroon;">seasonal check-up plans</span>!
+    </p>
+    <p>
+      We take pride in our <span class="large-text">rapid response repair services</span>, designed for peace of mind. For more minor concerns, we offer <span class="small-text">virtual consultations and quotes</span>.
     </p>
   </div>
 
@@ -88,7 +95,7 @@
       <a href="https://www.epa.gov/greenbuilding" target="_blank">EPA’s Green Building Guide</a>.
     </p>
     <p>
-      <a href="advikbablani@gmail.com">Contact me</a> if you have any questions!
+      <a href="mailto:advikbablani@gmail.com">Contact me</a> if you have any questions!
     </p>
     <p>
       <a href="tekton_services_brochure.pdf" download>Download our full services brochure (PDF)</a>
@@ -98,7 +105,9 @@
   <div class="footer">
     <p><script>document.write("Last modified: " + document.lastModified);</script></p>
   </div>
+
 </body>
 </html>
+
 
 
