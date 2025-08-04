@@ -70,8 +70,8 @@
   </div>
 
   <div class="images">
-    <img src="<img src="images/roof image.png" alt="Roofing layers diagram showing shingles, underlayment, sheathing, and rafters" width="600">
-    <img src="https://via.placeholder.com/400x250?text=Repair+Photo" alt="Repair work example">
+    <img 
+    <img 
   </div>
 
   <div class="section">
